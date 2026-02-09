@@ -17,7 +17,7 @@ const services = [
   },
   {
     title: 'Build & Optimize',
-    description: 'Performance audits, accessibility improvements, and SEO strategy. Code that's fast, maintainable, and future-proof.',
+    description: "Performance audits, accessibility improvements, and SEO strategy. Code that's fast, maintainable, and future-proof.",
     icon: '⚡',
   },
 ]
